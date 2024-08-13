@@ -1,4 +1,4 @@
-# TesteTecnicoNetLex
+# C# com Selenium
 
 ### Para a execução e funcionamento dos testes é necessário que o usuário siga os seguintes passos:<p>
   
